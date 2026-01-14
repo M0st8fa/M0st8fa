@@ -1,18 +1,50 @@
-# 💫 About Me:
-I’m a Cybersecurity student and Junior Penetration Tester specializing in network and web application security. I have strong hands-on experience in ethical hacking, red teaming, and vulnerability assessment through real-world labs and CTF platforms like TryHackMe, Hack The Box, and PortSwigger.<br><br>I’ve trained extensively in penetration testing methodologies inspired by eJPT, OSCP, and EWAPT, and I’m comfortable working across Linux and Windows environments. My toolset includes Nmap, Metasploit, Burp Suite, Nessus, Acunetix, and custom scripts written in Python and Bash.<br><br>I’m passionate about breaking systems to make them more secure, continuously improving my skills through labs, competitions, and research. I enjoy learning how attacks work—from Active Directory exploitation to web vulnerabilities and malware concepts—and translating that knowledge into practical defense strategies.<br><br>🔐 Interests:<br>- Penetration Testing & Red Teaming  <br>- Web Application Security  <br>- Active Directory Attacks & Defense  <br>- CTFs & Security Research  <br>- Network & Cloud Security  <br><br>📫 Reach me:<br>- LinkedIn: https://www.linkedin.com/in/mostafa-waleed99  <br>- Email: mostafa23110006@gmail.com
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m0stafa_86) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafa-waleed99) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M0st8fa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=M0st8fa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🛡️ Mostafa Waleed (M0st8fa)
+### Junior Penetration Tester | Top 2% on TryHackMe | CS Student @ O6U
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M0st8fa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me:
+[cite_start]I’m a **Cybersecurity student** at October 6 University and a **Junior Penetration Tester** specializing in network and web application security[cite: 1, 2, 14]. [cite_start]With a strong foundation in **Linux (RHCSA)** and **Networking (CCNA)**, I focus on identifying and securing vulnerabilities across complex environments[cite: 7, 11].
+
+* [cite_start]**🏆 Achievements:** Top 2% on TryHackMe & active CTF player[cite: 8, 12, 48].
+* [cite_start]**🎓 Education:** B.Sc. in Computer Science (Cybersecurity Dept), CGPA: 3.8[cite: 14].
+* [cite_start]**🛡️ Training:** NTI Trainee in Network Security and Red Nexus Red Teaming Diploma[cite: 11, 21, 22].
+* [cite_start]**🔍 Goal:** Mastering offensive security methodologies aligned with OSCP and eJPT[cite: 10].
+
+---
+
+## 🔐 Specialized In:
+- [cite_start]**Offensive Security:** Red Teaming, Vulnerability Assessment, & Exploitation[cite: 38].
+- [cite_start]**Web Security:** OWASP Top 10, Bug Hunting, and Automated Scanning[cite: 45].
+- [cite_start]**Infrastructure:** Active Directory Attacks/Hardening, Windows Server (MCSA), & Cloud Security (HCIA)[cite: 25, 26, 39, 40].
+- [cite_start]**Programming:** Developing custom security scripts in Python and Bash[cite: 9, 41].
+
+---
+
+## 🛠️ Tech Stack & Tools:
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚔️ Hacking Tools & Platforms
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-326DE6?style=flat-square&logo=metasploit&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=flat-square&logo=tryhackme&logoColor=white) ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+
+### 🖥️ Systems & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white) ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=M0st8fa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Mostafa's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-waleed99/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafa23110006@gmail.com) [![Portfolio](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/M0st8fan)
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=M0st8fa&icon=0&color=0" alt="Visitor Count" />
+</p>
