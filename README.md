@@ -6,10 +6,10 @@
 ## 💫 About Me:
 [cite_start]I’m a **Cybersecurity student** at October 6 University and a **Junior Penetration Tester** specializing in network and web application security[cite: 1, 2, 14]. [cite_start]With a strong foundation in **Linux (RHCSA)** and **Networking (CCNA)**, I focus on identifying and securing vulnerabilities across complex environments[cite: 7, 11].
 
-* [cite_start]**🏆 Achievements:** Top 2% on TryHackMe & active CTF player[cite: 8, 12, 48].
-* [cite_start]**🎓 Education:** B.Sc. in Computer Science (Cybersecurity Dept)[cite: 14, 15].
-* [cite_start]**🛡️ Training:** NTI Trainee in Network Security and Red Nexus Red Teaming Diploma[cite: 11, 21, 22].
-* [cite_start]**🔍 Goal:** Mastering offensive security methodologies aligned with OSCP and eJPT[cite: 10].
+* [cite_start]🏆 **Achievements:** Top 2% on TryHackMe & active CTF player[cite: 8, 12, 48].
+* [cite_start]🎓 **Education:** B.Sc. in Computer Science (Cybersecurity Dept)[cite: 14].
+* [cite_start]🛡️ **Training:** NTI Trainee in Network Security and Red Nexus Red Teaming Diploma[cite: 11, 21, 22].
+* [cite_start]🔍 **Goal:** Mastering offensive security methodologies aligned with OSCP and eJPT[cite: 10].
 
 ---
 
@@ -33,13 +33,14 @@
 ## 📊 GitHub Stats:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=M0st8fa&theme=tokyonight&show_icons=true&hide_border=false" alt="Mostafa's Stats" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-waleed99/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafa23110006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-waleed99/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafa23110006@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/M0st8fan)
 
 ---
 <p align="center">
