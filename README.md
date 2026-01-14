@@ -43,5 +43,5 @@ I’m a **Cybersecurity student** at October 6 University and a **Junior Penetra
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M0st8fa&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=M0st8fa&style=flat-square" alt="Profile Views" />
 </p>
