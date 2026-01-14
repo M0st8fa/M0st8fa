@@ -32,9 +32,9 @@ I’m a **Cybersecurity student** at October 6 University and a **Junior Penetra
 
 ## 📊 GitHub Stats:
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M0st8fa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&layout=compact&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api?username=M0st8fa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=M0st8fa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
