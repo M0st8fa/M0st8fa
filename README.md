@@ -1,12 +1,12 @@
 # 🛡️ Mostafa Waleed (M0st8fa)
-### Junior Penetration Tester | Top 2% on TryHackMe | CS Student @ O6U
+### Junior Penetration Tester | Top 1% on TryHackMe | CS Student @ O6U
 
 ---
 
 ## 💫 About Me:
 I’m a **Cybersecurity student** at October 6 University and a **Junior Penetration Tester** specializing in network and web application security. With a strong foundation in **Linux (RHCSA)** and **Networking (CCNA)**, I focus on identifying and securing vulnerabilities across complex environments.
 
-* 🏆 **Achievements:** Top 2% on TryHackMe & active CTF player.
+* 🏆 **Achievements:** Top 1% on TryHackMe & active CTF player.
 * 🎓 **Education:** B.Sc. in Computer Science (Cybersecurity Dept).
 * 🛡️ **Training:** NTI Trainee in Network Security and Red Nexus Red Teaming Diploma.
 * 🔍 **Goal:** Mastering offensive security methodologies aligned with OSCP and eJPT.
@@ -31,11 +31,9 @@ I’m a **Cybersecurity student** at October 6 University and a **Junior Penetra
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=M0st8fa&theme=tokyonight&show_icons=true&hide_border=false" alt="Mostafa's Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+![Mostafa's Stats](https://github-readme-stats.vercel.app/api?username=M0st8fa&theme=tokyonight&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0st8fa&theme=tokyonight&layout=compact)
 
 ---
 
