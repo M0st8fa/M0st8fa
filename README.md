@@ -4,20 +4,20 @@
 ---
 
 ## 💫 About Me:
-[cite_start]I’m a **Cybersecurity student** at October 6 University and a **Junior Penetration Tester** specializing in network and web application security[cite: 1, 2, 14]. [cite_start]With a strong foundation in **Linux (RHCSA)** and **Networking (CCNA)**, I focus on identifying and securing vulnerabilities across complex environments[cite: 7, 11].
+I’m a **Cybersecurity student** at October 6 University and a **Junior Penetration Tester** specializing in network and web application security. With a strong foundation in **Linux (RHCSA)** and **Networking (CCNA)**, I focus on identifying and securing vulnerabilities across complex environments.
 
-* [cite_start]🏆 **Achievements:** Top 2% on TryHackMe & active CTF player[cite: 8, 12, 48].
-* [cite_start]🎓 **Education:** B.Sc. in Computer Science (Cybersecurity Dept)[cite: 14].
-* [cite_start]🛡️ **Training:** NTI Trainee in Network Security and Red Nexus Red Teaming Diploma[cite: 11, 21, 22].
-* [cite_start]🔍 **Goal:** Mastering offensive security methodologies aligned with OSCP and eJPT[cite: 10].
+* 🏆 **Achievements:** Top 2% on TryHackMe & active CTF player.
+* 🎓 **Education:** B.Sc. in Computer Science (Cybersecurity Dept).
+* 🛡️ **Training:** NTI Trainee in Network Security and Red Nexus Red Teaming Diploma.
+* 🔍 **Goal:** Mastering offensive security methodologies aligned with OSCP and eJPT.
 
 ---
 
 ## 🔐 Specialized In:
-* [cite_start]**Offensive Security:** Red Teaming, Vulnerability Assessment, & Exploitation[cite: 38].
-* [cite_start]**Web Security:** OWASP Top 10, Bug Hunting, and Automated Scanning[cite: 45].
-* [cite_start]**Infrastructure:** Active Directory Attacks/Hardening, Windows Server (MCSA), & Cloud Security (HCIA)[cite: 25, 26, 39, 40].
-* [cite_start]**Programming:** Developing custom security scripts in Python and Bash[cite: 9, 41].
+* **Offensive Security:** Red Teaming, Vulnerability Assessment, & Exploitation.
+* **Web Security:** OWASP Top 10, Bug Hunting, and Automated Scanning.
+* **Infrastructure:** Active Directory Attacks/Hardening, Windows Server (MCSA), & Cloud Security (HCIA).
+* **Programming:** Developing custom security scripts in Python and Bash.
 
 ---
 
